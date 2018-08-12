@@ -1,0 +1,18 @@
+
+.cityButton{
+  border: none;
+  color: white;
+  background-color: #626363;
+  font-family: 'Abel', sans-serif;
+  font-size: 2em;
+  text-align: left;
+  width: 15vw;
+  height: 10vh;
+  margin: 1vw;
+  position: relative;
+}
+
+.cityName{
+  padding: .5vw;
+  display: inline;
+}

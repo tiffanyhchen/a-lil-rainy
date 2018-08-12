@@ -1,0 +1,42 @@
+.weatherDisplay{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+
+  width: 20vw;
+  height: 50vh;
+  padding: 3vw;
+  background-color: #F6B975;
+}
+
+.boxDisplay{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5%;
+}
+
+.col{
+  display: inline;
+}
+
+.header{
+  margin-bottom: 2vh;
+}
+
+.temp{
+  font-size: 4em;
+}
+
+.city{
+  font-size: 1.5em;
+}
+
+.Cities{
+  position: absolute;
+  bottom: 4vh;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

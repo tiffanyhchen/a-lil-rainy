@@ -1,0 +1,25 @@
+.weatherBox{
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 1vw;
+  width: 7vw;
+  height: 7vw;
+  margin-right: 1vw;
+  margin-bottom: 1vw;
+  position: relative;
+}
+
+.boxTitle{
+  font-size: 1em;
+}
+
+.weatherBox .boxContent{
+  font-size: 3em;
+  bottom: 0;
+  position: absolute;
+  float: right;
+  right: 1vw;
+}
+
+.unit{
+  font-size: 0.4em;
+}
